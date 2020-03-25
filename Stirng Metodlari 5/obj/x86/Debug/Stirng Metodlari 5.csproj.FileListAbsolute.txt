@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\bin\Debug\Stirng Metodlari 5.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\bin\Debug\Stirng Metodlari 5.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\obj\x86\Debug\Stirng_Metodlari_5.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\obj\x86\Debug\Stirng_Metodlari_5.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Stirng Metodlari 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.pdb
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.exe
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.pdb
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\bin\Debug\Stirng Metodlari 5.exe
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\bin\Debug\Stirng Metodlari 5.pdb
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\obj\x86\Debug\Stirng_Metodlari_5.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\obj\x86\Debug\Stirng_Metodlari_5.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\07 String Metodları 5\Stirng Metodlari 5\obj\x86\Debug\Stirng Metodlari 5.csproj.GenerateResource.Cache
